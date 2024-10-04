@@ -1,4 +1,4 @@
-name: nisarWetlandsCalVal
+name: NISAR_EA_Workshop_2024_10
 #
 channels:
   - conda-forge
