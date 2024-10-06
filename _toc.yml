@@ -7,7 +7,7 @@ parts:
   - caption: Start Here
     chapters:
       - file: README.md
-  - caption: Introduction to Git, GitHub, and GitLab
+  - caption: "Introduction to Git, GitHub, and GitLab"
     chapters:
       - url: https://example.com
         title: (TODO) Workshop Slides

@@ -24,8 +24,19 @@ This Jupyter Book holds content from the **October 2024 NISAR Early Adopters Wor
 >    - Provides a Jupyter Book table of contents in JupyterLab for improved navigation
 >    - Installed in OpenSARLab.
 >    - Navigate to a Jupyter Book and click the "JB" tab on the lefthand sidebar. 
->1. ### Install the software environment needed to run the notebook
+>1. ### Install the software environment needed to run the notebooks
 >
 >    - Run the **Install Required Software with Conda** notebook ([Software_Environment.ipynb](Software_Environment.ipynb))
 >
 >1. ### Explore the remaining notebooks, slides, and resources
+
+## Workshop Slides
+- [TODO Introduction to Git, GitHub, and GitLab](https://example.com)
+- [TODO Software Environments: Using conda locally and On a JupyterHub](https://example.com)
+- [TODO AWS S3 Buckets](https://example.com)
+- [TODO Algorithm Development in a Cloud-Hosted JupyterHub](https://example.com)
+- [TODO Managed JupyterHub services: OpenScienceLab and Alternatives](https://example.com)
+- [TODO Overview of Cloud Computing](https://example.com)
+- [TODO Scaling Your Algorithm with HyP3](https://example.com)
+- [TODO Algorithm Development Best practices](https://example.com)
+- [TODO Cloud Best Practices and Gotchas](https://example.com)
