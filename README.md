@@ -1,10 +1,13 @@
 
-<div style="display: flex;">
-<img src="images/ASF_logo.svg" alt="ASF logo" style="width: 10%; margin-right: 10px;">
-<img src="images/Jet_Propulsion_Laboratory_logo.svg" alt="JPL logo" width="10%"/>
-<img src="images/NISAR_Mission_Logo.png" alt="NISAR logo" width="10%"/>
+<div style="display: flex; align-items: center;">
+  <img src="images/ASF_logo.svg" alt="ASF logo" style="height: 75px; margin-right: 10px;">
+  <img src="images/Jet_Propulsion_Laboratory_logo.svg" alt="JPL logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/NISAR_Mission_Logo.png" alt="NISAR logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/openscapes_hex_badge.png" alt="Openscapes logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/NASA_logo.svg" alt="NASA logo" style="height: 100px;">
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/NISAR_artist_concept.jpg" width="25%"/>
 
 # Start Here
 
@@ -24,8 +27,19 @@ This Jupyter Book holds content from the **October 2024 NISAR Early Adopters Wor
 >    - Provides a Jupyter Book table of contents in JupyterLab for improved navigation
 >    - Installed in OpenSARLab.
 >    - Navigate to a Jupyter Book and click the "JB" tab on the lefthand sidebar. 
->1. ### Install the software environment needed to run the notebook
+>1. ### Install the software environment needed to run the notebooks
 >
 >    - Run the **Install Required Software with Conda** notebook ([Software_Environment.ipynb](Software_Environment.ipynb))
 >
 >1. ### Explore the remaining notebooks, slides, and resources
+
+## Workshop Slides
+- [TODO Introduction to Git, GitHub, and GitLab](https://example.com)
+- [TODO Software Environments: Using conda locally and On a JupyterHub](https://example.com)
+- [TODO AWS S3 Buckets](https://example.com)
+- [TODO Algorithm Development in a Cloud-Hosted JupyterHub](https://example.com)
+- [TODO Managed JupyterHub services: OpenScienceLab and Alternatives](https://example.com)
+- [TODO Overview of Cloud Computing](https://example.com)
+- [TODO Scaling Your Algorithm with HyP3](https://example.com)
+- [TODO Algorithm Development Best practices](https://example.com)
+- [TODO Cloud Best Practices and Gotchas](https://example.com)
