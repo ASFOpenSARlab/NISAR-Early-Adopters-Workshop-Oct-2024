@@ -34,12 +34,10 @@ This Jupyter Book holds content from the **October 2024 NISAR Early Adopters Wor
 >1. ### Explore the remaining notebooks, slides, and resources
 
 ## Workshop Slides
+- [Workshop Introduction](https://docs.google.com/presentation/d/10YlR_UrfWhlsvNtk5yFEvLEiGwInvvbNqZtBktH_X-I/edit?usp=sharing)
 - [Introduction to Git, GitHub, and GitLab](https://docs.google.com/presentation/d/1IZzN0iRHjJS4splSRrtqYu3nBmVxIXAIvw7aUQSgT2Y/edit?usp=sharing)
 - [Software Environments: Using conda locally and On a JupyterHub](https://docs.google.com/presentation/d/1G0mCxCEcI2r6Uc-CObi6uFeJ6n8W3_d2Yq3LbIVo2uk/edit?usp=sharing)
 - [AWS S3 Buckets](https://docs.google.com/presentation/d/17TcqLk2rmJRLLGvkdmzVq03iV9XqoA7sve8lv4fbjvA/edit?usp=sharing)
 - [Algorithm Development in a Cloud-Hosted JupyterHub](https://docs.google.com/presentation/d/1AKG_I-bJc1BfVCqCvcfww9JOdX5j0Ap3_zphEBHR6As/edit?usp=sharing)
 - [Managed JupyterHub services: OpenScienceLab and Alternatives](https://docs.google.com/presentation/d/1JOG0kS4Q0Ea2lCPvSG9TFmOLT0i0iDJq7F7jcJvDiH8/edit?usp=sharing)
-- [TODO Overview of Cloud Computing](https://example.com)
-- [TODO Scaling Your Algorithm with HyP3](https://example.com)
-- [TODO Algorithm Development Best practices](https://example.com)
-- [TODO Cloud Best Practices and Gotchas](https://example.com)
+- [Moving Processing to the Cloud](https://docs.google.com/presentation/d/1V1bTFWr4q8KdlWjLlQfsdbWMLax8s8l8leh81iYpR5o/edit?usp=sharing)
