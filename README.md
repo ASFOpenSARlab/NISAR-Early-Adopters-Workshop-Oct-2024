@@ -1,10 +1,13 @@
 
-<div style="display: flex;">
-<img src="images/ASF_logo.svg" alt="ASF logo" style="width: 10%; margin-right: 10px;">
-<img src="images/Jet_Propulsion_Laboratory_logo.svg" alt="JPL logo" width="10%"/>
-<img src="images/NISAR_Mission_Logo.png" alt="NISAR logo" width="10%"/>
+<div style="display: flex; align-items: center;">
+  <img src="images/ASF_logo.svg" alt="ASF logo" style="height: 75px; margin-right: 10px;">
+  <img src="images/Jet_Propulsion_Laboratory_logo.svg" alt="JPL logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/NISAR_Mission_Logo.png" alt="NISAR logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/openscapes_hex_badge.png" alt="Openscapes logo" style="height: 100px; margin-right: 10px;">
+  <img src="images/NASA_logo.svg" alt="NASA logo" style="height: 100px;">
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/NISAR_artist_concept.jpg" width="25%"/>
 
 # Start Here
 

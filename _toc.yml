@@ -20,7 +20,8 @@ parts:
         title: Conda Documentation
   - caption: "AWS S3 Buckets"
     chapters:
-      - file: S3_Buckets.ipynb
+      - file: S3_Buckets_Upload_Download.ipynb
+      - file: S3_Direct_Access.ipynb
       - url: https://example.com
         title: (TODO) Workshop Slides
       - url: https://aws.amazon.com/s3/
