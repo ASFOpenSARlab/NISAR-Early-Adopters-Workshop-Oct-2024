@@ -7,50 +7,42 @@ parts:
   - caption: Start Here
     chapters:
       - file: README.md
+  - caption: "Workshop Introduction"
+    chapters:
+      - url: https://docs.google.com/presentation/d/10YlR_UrfWhlsvNtk5yFEvLEiGwInvvbNqZtBktH_X-I/edit?usp=sharing
+        title: Intro Slides
   - caption: "Introduction to Git, GitHub, and GitLab"
     chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
+      - url: https://docs.google.com/presentation/d/1IZzN0iRHjJS4splSRrtqYu3nBmVxIXAIvw7aUQSgT2Y/edit?usp=sharing
+        title: Git Slides
   - caption: "Software Environments: Using conda locally and On a JupyterHub"
     chapters:
       - file: Software_Environment.ipynb
-      - url: https://example.com
-        title: (TODO) Workshop Slides
+      - url: https://docs.google.com/presentation/d/1G0mCxCEcI2r6Uc-CObi6uFeJ6n8W3_d2Yq3LbIVo2uk/edit?usp=sharing
+        title: Conda Environment Slides
       - url: https://docs.conda.io/en/latest/
         title: Conda Documentation
   - caption: "AWS S3 Buckets"
     chapters:
       - file: S3_Buckets_Upload_Download.ipynb
       - file: S3_Direct_Access.ipynb
-      - url: https://example.com
-        title: (TODO) Workshop Slides
+      - url: https://docs.google.com/presentation/d/17TcqLk2rmJRLLGvkdmzVq03iV9XqoA7sve8lv4fbjvA/edit?usp=sharing
+        title: S3 Bucket Slides
       - url: https://aws.amazon.com/s3/
         title: AWS S3 - Cloud Object Storage Documentation
   - caption: "Algorithm Development in a Cloud-Hosted JupyterHub"
     chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
+      - url: https://docs.google.com/presentation/d/1AKG_I-bJc1BfVCqCvcfww9JOdX5j0Ap3_zphEBHR6As/edit?usp=sharing
+        title: Algorithm Development Slides
       - file: NISAR_ATBD_wetlands.ipynb
   - caption: "Managed JupyterHub services: OpenScienceLab and Alternatives"
     chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
-  - caption: "Overview of Cloud Computing"
+      - url: https://docs.google.com/presentation/d/1JOG0kS4Q0Ea2lCPvSG9TFmOLT0i0iDJq7F7jcJvDiH8/edit?usp=sharing
+        title: Managed JupyterHub Slides
+  - caption: "Moving Processing to the Cloud"
     chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
-  - caption: "Scaling Your Algorithm with HyP3"
-    chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
-  - caption: "Algorithm Development Best practices"
-    chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
-  - caption: "Cloud Best Practices and Gotchas"
-    chapters:
-      - url: https://example.com
-        title: (TODO) Workshop Slides
+      - url: https://docs.google.com/presentation/d/1V1bTFWr4q8KdlWjLlQfsdbWMLax8s8l8leh81iYpR5o/edit?usp=sharing
+        title: "Moving Processing to the Cloud Slides"
   - caption: "Additional Resources"
     chapters:
       - url: https://nisar.jpl.nasa.gov/engagement/early-adopters/
