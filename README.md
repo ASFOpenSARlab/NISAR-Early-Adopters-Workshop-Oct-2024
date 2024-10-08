@@ -34,7 +34,7 @@ This Jupyter Book holds content from the **October 2024 NISAR Early Adopters Wor
 >1. ### Explore the remaining notebooks, slides, and resources
 
 ## Workshop Slides
-- [Workshop Introduction](https://docs.google.com/presentation/d/10YlR_UrfWhlsvNtk5yFEvLEiGwInvvbNqZtBktH_X-I/edit?usp=sharing)
+- [Workshop Introduction](https://docs.google.com/presentation/d/19G_96yn3peDbP_sj1zkZiEZvEBQhaBVemSBeCXE4RBM/edit?usp=sharing)
 - [Introduction to Git, GitHub, and GitLab](https://docs.google.com/presentation/d/1IZzN0iRHjJS4splSRrtqYu3nBmVxIXAIvw7aUQSgT2Y/edit?usp=sharing)
 - [Software Environments: Using conda locally and On a JupyterHub](https://docs.google.com/presentation/d/1G0mCxCEcI2r6Uc-CObi6uFeJ6n8W3_d2Yq3LbIVo2uk/edit?usp=sharing)
 - [AWS S3 Buckets](https://docs.google.com/presentation/d/17TcqLk2rmJRLLGvkdmzVq03iV9XqoA7sve8lv4fbjvA/edit?usp=sharing)
