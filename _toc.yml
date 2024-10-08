@@ -9,7 +9,7 @@ parts:
       - file: README.md
   - caption: "Workshop Introduction"
     chapters:
-      - url: https://docs.google.com/presentation/d/10YlR_UrfWhlsvNtk5yFEvLEiGwInvvbNqZtBktH_X-I/edit?usp=sharing
+      - url: https://docs.google.com/presentation/d/19G_96yn3peDbP_sj1zkZiEZvEBQhaBVemSBeCXE4RBM/edit?usp=sharing
         title: Intro Slides
   - caption: "Introduction to Git, GitHub, and GitLab"
     chapters:
