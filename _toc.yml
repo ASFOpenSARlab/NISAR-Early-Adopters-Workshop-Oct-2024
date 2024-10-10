@@ -39,8 +39,12 @@ parts:
     chapters:
       - url: https://docs.google.com/presentation/d/1JOG0kS4Q0Ea2lCPvSG9TFmOLT0i0iDJq7F7jcJvDiH8/edit?usp=sharing
         title: Managed JupyterHub Slides
-  - caption: "Moving Processing to the Cloud"
+  - caption: "NASA Openscapes: Research and Opportunities"
     chapters:
+      - url: https://docs.google.com/presentation/d/1IRWVKO1pTNwUH-HMZZn8Gmy3dkWIU48r5ESm0Qb3ECA/edit?usp=sharing
+        title: Openscapes Slides
+  - caption: "Moving Processing to the Cloud"
+    chapters: 
       - url: https://docs.google.com/presentation/d/1V1bTFWr4q8KdlWjLlQfsdbWMLax8s8l8leh81iYpR5o/edit?usp=sharing
         title: "Moving Processing to the Cloud Slides"
   - caption: "Additional Resources"
