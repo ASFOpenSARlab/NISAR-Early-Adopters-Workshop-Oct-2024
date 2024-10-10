@@ -40,4 +40,5 @@ This Jupyter Book holds content from the **October 2024 NISAR Early Adopters Wor
 - [AWS S3 Buckets](https://docs.google.com/presentation/d/17TcqLk2rmJRLLGvkdmzVq03iV9XqoA7sve8lv4fbjvA/edit?usp=sharing)
 - [Algorithm Development in a Cloud-Hosted JupyterHub](https://docs.google.com/presentation/d/1AKG_I-bJc1BfVCqCvcfww9JOdX5j0Ap3_zphEBHR6As/edit?usp=sharing)
 - [Managed JupyterHub services: OpenScienceLab and Alternatives](https://docs.google.com/presentation/d/1JOG0kS4Q0Ea2lCPvSG9TFmOLT0i0iDJq7F7jcJvDiH8/edit?usp=sharing)
+- [NASA Openscapes](https://docs.google.com/presentation/d/1IRWVKO1pTNwUH-HMZZn8Gmy3dkWIU48r5ESm0Qb3ECA/edit?usp=sharing)
 - [Moving Processing to the Cloud](https://docs.google.com/presentation/d/1V1bTFWr4q8KdlWjLlQfsdbWMLax8s8l8leh81iYpR5o/edit?usp=sharing)
